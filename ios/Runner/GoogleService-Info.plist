@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAvs-UmR7StpqM60hPGceWfqSXG_Y1fqEE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>632525598908</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.igorvenancio.gourmetcafe</string>
+	<key>PROJECT_ID</key>
+	<string>coffee-shop-1vc4jn</string>
+	<key>STORAGE_BUCKET</key>
+	<string>coffee-shop-1vc4jn.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:632525598908:ios:de864193c261a76402a0b9</string>
+</dict>
+</plist>
